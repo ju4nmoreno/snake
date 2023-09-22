@@ -1,4 +1,4 @@
 # snake
 snake
 
-basic Snake game. JavaScript, some HTML, and CSS
+basic (Snake game)[https://ju4nmoreno.github.io/snake/]. JavaScript, some HTML, and CSS
